@@ -1,4 +1,3 @@
-# VI-countdown
 # VI Neon Countdown 2.0 🌴
 
 一款粉紫霓虹风格的非官方 GTA VI macOS 倒计时工具，由 **黄铜花雨**制作与维护。
